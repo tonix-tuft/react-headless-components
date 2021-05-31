@@ -32,4 +32,4 @@ const ExampleComponent = function ExampleComponent({ text } = {}) {
   );
 };
 ExampleComponent.displayName = "ExampleComponent";
-export default ExampleComponent;
+export { ExampleComponent };
