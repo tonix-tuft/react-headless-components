@@ -5,11 +5,11 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "react-headless-components": "file:..",
     "prop-types": "^15.6.2",
     "react": "file:../node_modules/react",
     "react-dom": "^16.4.1",
-    "react-scripts": "^3.4.1"
+    "react-headless-components": "file:..",
+    "react-scripts": "^3.4.4"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
