@@ -1,6 +1,6 @@
 {
   "name": "react-headless-components",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Headless React UI components which can be used to build UI kits, design systems and user interfaces with a high-end custom feel.",
   "author": "Anton Bagdatyev (Tonix)",
   "license": "MIT",
